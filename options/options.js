@@ -37,7 +37,6 @@ const styles = StyleSheet.create({
     fontSize: 16
   }
 });
-
 export const globalOptions = {
   "name": "test20230314-dev-69515",
   "url": "https://test20230314-dev-69515.botics.co",
@@ -45,7 +44,7 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "AppEditted",
+    "title": "AppEdit",
     "copy": "Routes available33",
     "styles": styles
   }
