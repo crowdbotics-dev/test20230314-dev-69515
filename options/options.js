@@ -1,3 +1,4 @@
+import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -36,7 +37,7 @@ const styles = StyleSheet.create({
     fontSize: 16
   }
 });
-import { StyleSheet } from "react-native";
+
 export const globalOptions = {
   "name": "test20230314-dev-69515",
   "url": "https://test20230314-dev-69515.botics.co",
