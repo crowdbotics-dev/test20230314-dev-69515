@@ -44,7 +44,7 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "AppEdit",
+    "title": "AppE2",
     "copy": "Routes available",
     "styles": styles
   }
