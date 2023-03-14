@@ -47,5 +47,9 @@ export const modulesOptions = {
     "title": "App33",
     "copy": "Routes available3",
     "styles": styles
+  },
+  "@modules/camera": {
+    "buttonText": "+ Take33",
+    "styles": styles
   }
 };
