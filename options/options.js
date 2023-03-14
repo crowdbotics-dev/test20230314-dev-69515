@@ -49,7 +49,7 @@ export const modulesOptions = {
     "styles": styles
   },
   "@modules/camera": {
-    "buttonText": "+ Take33",
+    "buttonText": "+ Take55",
     "styles": styles
   }
 };
