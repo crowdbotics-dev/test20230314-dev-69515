@@ -44,7 +44,7 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "App33",
+    "title": "App77",
     "copy": "Routes available3",
     "styles": styles
   },
