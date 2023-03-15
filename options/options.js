@@ -44,12 +44,12 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "App77",
-    "copy": "Routes available3",
+    "title": "App88",
+    "copy": "Routes available88",
     "styles": styles
   },
   "@modules/camera": {
-    "buttonText": "+ Tak88",
+    "buttonText": "+ Tak99",
     "styles": styles
   }
 };
