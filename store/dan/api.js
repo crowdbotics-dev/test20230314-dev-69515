@@ -6,4 +6,10 @@ const dan = axios.create({
 function dan20230328_get_hi_read(payload) {
   return dan.get(`/hi`)
 }
-export const apiService = { dan20230328_get_hi_read }
+function dan20230328_get_testtt_read(payload) {
+  return dan.get(`/testtt`)
+}
+export const apiService = {
+  dan20230328_get_hi_read,
+  dan20230328_get_testtt_read
+}
